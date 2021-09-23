@@ -41,5 +41,4 @@ body {
 
 .dark .flicker {
   transform: translateX(40px);
-  transition: 0.3s;
 }
